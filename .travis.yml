@@ -8,4 +8,4 @@ python:
 #  - pip install -r requirements.txt -r test-requirements.txt
 # command to run tests
 script: 
-   - m1.py
+   - python m1.py
