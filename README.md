@@ -10,7 +10,7 @@
         - jupyter notebook 4.2.1
 
 ## jupyer notebook
-問題を特に当たってpythonコードの実行にjupyter notebookを使用した。
+問題を解くに当たってpythonコードの実行にjupyter notebookを使用した。
 以下のそのコードを示す。
 
 - m1.ipynb
