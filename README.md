@@ -1,8 +1,9 @@
 [![Build Status](https://travis-ci.org/Takaaki-MATSUZAWA/Kakuritsu_Robotics_Report.svg?branch=master)](https://travis-ci.org/Takaaki-MATSUZAWA/Kakuritsu_Robotics_Report)
 
 # 2016年度 確立ロボティクス レポート課題
-
 確率ロボティクスのレポート課題として第8回スライドの中の問題を解くためのpythonコードを製作した
+
+[2016年度　確率ロボティクス　第8回スライド](https://lab.ueda.asia/?presenpress=%E7%A2%BA%E7%8E%87%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B92016%E7%AC%AC8%E5%9B%9E#/)
 
 実行環境
 - windows10 バーション：1607
