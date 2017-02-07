@@ -20,7 +20,7 @@ https://github.com/Takaaki-MATSUZAWA/Kakuritsu_Robotics_Report/blob/master/m1.ip
 notebook内に問題の説明と回答の解説を記述した。
 
 ## Travis CI
-jupyer notebookのリングで見れるものはローカルで実行した結果をGitHubがレンダリングしているだけなので、別途Travis ciでビルドが通った様子を以下に示す。
+jupyer notebookのリンクで見れるものはローカルで実行した結果をGitHubがレンダリングしているだけなので、別途Travis ciでビルドが通った様子を以下に示す。
 実行しているコードはjupyter notebookでエクスポートしたpythonファイルである
 
 - m1.py
